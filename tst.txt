@@ -1,3 +1,7 @@
 Work my lovely
 I beg you pls
+<<<<<<< HEAD
 what boi
+=======
+what oyy
+>>>>>>> 4343e8855b9a08308727a75c343cab5351918d2c
